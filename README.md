@@ -5,3 +5,4 @@ Altvista is startup company in Tirana, Albania dedicated to developing innovativ
 
 Altvista Smart Home është një sistem i zhvilluar për menaxhimin dhe kontrollin e pajisjeve smart në një ambient shtëpie ose zyre.
 Sistemi është i ndërtuar në Go dhe është projektuar për të punuar si një server i lehtë, i shpejtë dhe i zgjerueshëm.
+[Altvista Smart Home](https://github.com/PajtimBacaj/Altvista.net)
